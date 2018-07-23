@@ -218,8 +218,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58b9834d018495b42b3b02068aa93b02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  appleSE: {fileID: 8300000, guid: 1c8b1d4cfe7cd40428bdf2d4acdb464f, type: 3}
-  bombSE: {fileID: 8300000, guid: 5cf743f397b5b3d48b52572563f01f93, type: 3}
+  appleSE: {fileID: 8300000, guid: 88aac9a07fa958c4ba41c1bdb7f92445, type: 3}
+  bombSE: {fileID: 8300000, guid: fb094929c597aae4bad98395fe1681cc, type: 3}
 --- !u!65 &524612498
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -682,7 +682,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   applePrefab: {fileID: 1913883653058464, guid: ae29895429d5db64da67ed478fd60a68,
     type: 2}
-  bombPrefab: {fileID: 0}
+  bombPrefab: {fileID: 1339458875547460, guid: f6b252e104ea88d4bbafca3e297dfd50, type: 2}
 --- !u!4 &1891620916
 Transform:
   m_ObjectHideFlags: 0
